@@ -1,5 +1,4 @@
-# trader-sentiment-analysis
-Data science internship task – Trader performance vs Bitcoin sentiment
+
 # Trader Sentiment Analysis — Primetrade.ai Assignment
 
 **Author:** Akshata Z.  
